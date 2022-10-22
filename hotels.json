@@ -1,0 +1,47 @@
+[
+    {
+        "hotelid": 1 ,
+        "hotelName": "Sundorbon hotel",
+        "price": "5k pernight"
+    },
+    {
+        "hotelid": 1 ,
+        "hotelName": "Sundorbon hotel",
+        "price": "5k pernight"
+    },
+    {
+        "hotelid": 1 ,
+        "hotelName": "Sundorbon hotel",
+        "price": "5k pernight"
+    },
+    {
+        "hotelid": 2 ,
+        "hotelName": "Darjeeling",
+        "price": "5k pernight"
+    },
+    {
+        "hotelid": 2 ,
+        "hotelName": "Darjeeling hotel",
+        "price": "5k pernight"
+    },
+    {
+        "hotelid": 2 ,
+        "hotelName": "Darjeeling hotel",
+        "price": "5k pernight"
+    },
+    {
+        "hotelid": 3 ,
+        "hotelName": "Manali hotel",
+        "price": "5k pernight"
+    },
+    {
+        "hotelid": 3 ,
+        "hotelName": "Manali hotel",
+        "price": "5k pernight"
+    },
+    {
+        "hotelid": 3 ,
+        "hotelName": "Manali hotel",
+        "price": "5k pernight"
+    }
+]
